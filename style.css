@@ -4,9 +4,10 @@ img {
 }
 
 .p1 {
-    float: right;
+    float: left;
+    width: 300px;
 }
 
 .img1 {
-    float: left;
+    float: right;
 }
