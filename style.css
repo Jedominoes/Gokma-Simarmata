@@ -2,3 +2,11 @@ img {
     width: 100px;
     height: auto;
 }
+
+.p1 {
+    float: right;
+}
+
+.img1 {
+    float: left;
+}
