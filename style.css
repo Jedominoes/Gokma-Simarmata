@@ -4,10 +4,10 @@ img {
 }
 
 .p1 {
-    float: left;
     width: 300px;
 }
 
-.img1 {
-    float: right;
+.row {
+    display: grid;
+    align-items: center;
 }
