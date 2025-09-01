@@ -12,9 +12,9 @@ img {
 }
 
 .img1 {
-    margin: left;
+    align: left;
 }
 
 .img2 {
-    margin: right;
+    align: right;
 }
